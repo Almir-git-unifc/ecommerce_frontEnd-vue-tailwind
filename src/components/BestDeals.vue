@@ -29,7 +29,7 @@
       <!-- Right Image Aos 17:47 min.  - - - - - - TAG sem fechar pode dar erro  -->
       <!-- A imagem está aparecendo acima do texto, mas deve ficar ao lado  -->
       <div class="w-full lg:w-1/2 flex justify-center ">
-        <img  src="../assets/productlider.png" alt="Leading product"  class="w-3/4 lg:w-full max-w-md mx-auto rounded-xl shadow-lg h-auto bg-pink-50"
+        <img  src="../assets/images/product0.png" alt="Leading product"  class="w-3/4 lg:w-full max-w-md mx-auto rounded-xl shadow-lg h-auto bg-pink-50"
         />
       </div>
     </div>
