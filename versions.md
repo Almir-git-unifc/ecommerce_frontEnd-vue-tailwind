@@ -16,6 +16,10 @@ v00.06.000 - update App.vue and images file
 
 v00.07.000 - Resized images added
 
-v00.08.000 - make Category section page
+v00.08.000 - Make Category section page in Products.vue
 
-v00.09.000 - update App.vue with Category file
+v00.09.000 - Make Category section page in Categories.vue
+
+v00.10.000 - update App.vue with Category file
+
+v00.11.000 - update versions.md file and others
