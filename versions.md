@@ -8,4 +8,14 @@ v00.02.000 make Best Deals section page
 
 v00.03.000 make Readme File structure
 
-v00.04.000 make Product section page
+v00.04.000 Update doc versions.md file
+
+v00.05.000 - make Product section page
+
+v00.06.000 - update App.vue and images file
+
+v00.07.000 - Resized images added
+
+v00.08.000 - make Category section page
+
+v00.09.000 - update App.vue with Category file
