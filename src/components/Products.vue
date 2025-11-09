@@ -148,16 +148,17 @@
  
    const currentSlide = ref(0);
    const productsPerPage=ref(4);
+
    const products=[
       /* Usaremos imagens unsplash para teste */
-      {id:1, name:'Floral', price:99.99, rating:4.5, image:product0, discount:20},
-      {id:2, name:'Oriental', price:199.99, rating:4.2, image:product1, discount:15},
-      {id:3, name:'Woody', price:79.99, rating:4.7, image:product2, discount:10},
-      {id:4, name:'Cítrico', price:99.99, rating:4.5, image:product3, discount:0},
-      {id:5, name:'Chipre', price:99.99, rating:4.5, image:product4, discount:25},
-      {id:6, name:'Herbal', price:99.99, rating:4.5, image:product5, discount:5},
-      {id:7, name:'Gourmand', price:100.99, rating:4.5, image:product6, discount:5},
-      {id:8, name:'Lavanda', price:99.99, rating:4.5, image:product7, discount:5},      
+      {id:1, name:'Link-Diamond-vecteezy', price:99.99, rating:4.5, image:product0, discount:20},
+      {id:2, name:'Link-vecteezy-Jade', price:199.99, rating:4.2, image:product1, discount:15},
+      {id:3, name:'Link-vecteezy-pink-stone', price:79.99, rating:4.7, image:product2, discount:10},
+      {id:4, name:'Cristal-blue', price:99.99, rating:4.5, image:product3, discount:0},
+      {id:5, name:'Link-nicepng-Swarovski-pink', price:99.99, rating:4.5, image:product4, discount:25},
+      {id:6, name:'Link-vecteezy-Gem-blue', price:99.99, rating:4.5, image:product5, discount:5},
+      {id:7, name:'Link-klipartz-Horse-cristal', price:100.99, rating:4.5, image:product6, discount:5},
+      {id:8, name:'Link Freepik', price:99.99, rating:4.5, image:product7, discount:5},      
    ]
 
    const totalSlides = computed (() =>Math.ceil(products.length/productsPerPage.value)); 
