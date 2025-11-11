@@ -63,11 +63,11 @@ These were some differences, in relation to the original project found on Youtub
 
 
 ## Built With 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=plastic)
+![Vue.js](https://img.shields.io/badge/vue.js-%4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=plastic)
-![Iconify](https://img.shields.io/badge/Iconify-026C9C?logo=iconify&logoColor=fff&style=plastic)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![Iconify](https://img.shields.io/badge/Iconify-026C9C.svg?style=for-the-badge&logo=iconify&logoColor=fff)
 
 
 
