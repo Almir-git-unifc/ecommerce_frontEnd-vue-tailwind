@@ -4,6 +4,7 @@
     <BestDeals />
     <Products />
     <Categories />
+    <Offers />
   </div>
 </template>
 
@@ -12,6 +13,7 @@
     import BestDeals from "./components/BestDeals.vue";
     import Products from "./components/Products.vue";
     import Categories from "./components/Categories.vue";
+    import Offers from "./components/Offers.vue";
 </script>
 
 
