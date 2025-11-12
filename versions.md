@@ -46,3 +46,8 @@ v00.21.000 - docs(md) update About.vue with designer
 
 v00.22.000 - docs(md) - update versions.md with Contact file
 
+v00.23.000 - implements Footer.vue"
+
+v00.24.000 - update App.vue with Footer file"
+
+v00.25.000 - update versions with Footer file"
