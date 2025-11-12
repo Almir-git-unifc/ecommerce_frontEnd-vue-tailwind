@@ -1,5 +1,5 @@
 <template>
-    <div id="about" class="min-h-screen scroll-mt-20 `bg-gradient-to-b` from-gray-50 to-white py-12 px-4 sm:px-6 lg:px-8">
+    <div id="about" class="scroll-mt-10 `bg-gradient-to-b` from-gray-50 to-white py-6 px-4 sm:px-6 lg:px-8">
 
         <div class="mx-auto max-w-7xl">
             <div class="mb-20 flex flex-col gap-12 lg:flex-row">
@@ -11,7 +11,7 @@
   <div class="relative h-96 overflow-hidden rounded-2xl shadow-xl flex items-center justify-center">
     <img src="../assets/images/product0.png" alt="Leading product"
          class="w-3/4 lg:w-full max-w-md rounded-xl h-auto" />
-    <div class="absolute inset-0 bg-gradient-to-t from-black to-transparent opacity-60"></div>
+    <div class="absolute inset-0 bg-linear-to-t from-black to-transparent opacity-60"></div>
     <div class="absolute bottom-0 left-0 p-6 text-white">
         <h3 class="text-2xl font-bold">Since 2021</h3>
         <p class="mt-2 text-lg">Crafting jewelry with passion</p>
