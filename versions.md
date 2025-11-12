@@ -38,3 +38,9 @@ v00.17.000 - docs(readme) - update new icons
 
 v00.18.000 - update App.vue with About file
 
+v00.19.000 - implements Contact.vue file
+
+v00.20.000 - docs(md) - update versions.md
+
+v00.21.000 - update App.vue with Contact file
+
