@@ -42,5 +42,7 @@ v00.19.000 - implements Contact.vue file
 
 v00.20.000 - docs(md) - update versions.md
 
-v00.21.000 - update App.vue with Contact file
+v00.21.000 - docs(md) update About.vue with designer
+
+v00.22.000 - docs(md) - update versions.md with Contact file
 
