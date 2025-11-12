@@ -32,3 +32,9 @@ v00.14.000 - update App.vue with Offers file
 
 v00.15.000 - docs(md) - update versions.md
 
+v00.16.000 - implements About.vue file
+
+v00.17.000 - docs(readme) - update new icons
+
+v00.18.000 - update App.vue with About file
+
